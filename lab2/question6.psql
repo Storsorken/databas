@@ -1,1 +1,15 @@
-hello
+#5 remakes
+INSERT INTO Media
+VALUES ('Three Monks: Wild now', '2005', 90, 'China')
+
+INSERT INTO Media
+VALUES ('Force of one, A', '2001', 121, 'China')
+
+INSERT INTO Media
+VALUES (Dharti Ke Lal','1992', '104', 'USA')
+
+INSERT INTO Media 
+VALUES ('Two drops of water','2003','120','India')
+
+INSERT INTO Media 
+VALUES ('Time of a Dancer','2015','117','USA')
